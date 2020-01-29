@@ -1,4 +1,5 @@
 # Responsive Web Design Projects - Build a Tribute Page
+# Objective: Build an app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
 # User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
